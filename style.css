@@ -4,7 +4,7 @@ body {
 	background-color: #f9e8ef;
 }
 
-title {
+h1 {
 	border-style: double;
 	border-width: medium;
 }
@@ -13,7 +13,7 @@ p {
 	color: #06585b; 
 }
 
-title {
+h1 {
 	font-family: serif;
 }
 
@@ -22,7 +22,7 @@ p {
 	font-family: serif;
 }
 
-title {
+h1 {
 	text-align: center;
 }
 
